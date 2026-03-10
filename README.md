@@ -54,7 +54,9 @@ Prediction results are delivered through:
 
 ## 🎥 Project Demo
 
-This demo showcases the complete workflow of the Brain Tumor Classification system, including image upload, preprocessing, CNN-based prediction, confidence scores, and result visualization.
+This video demonstrates the complete working of the **AI-Powered Brain Tumor Detection System**, including the software interface, image preprocessing, CNN-based prediction, and the **hardware integration using Arduino, LEDs, and Servo Motors**.
+
+In the demo, the full project workflow is explained step-by-step, showing how MRI/CT images are processed, how the model predicts tumor presence, and how the hardware indicators respond to the prediction results
 
 ▶️ [Google Drive Link](https://drive.google.com/file/d/1O9lgFGSX_Uo6VN6h_6eGEZCCDM3wCiF9/view?usp=sharing)
 
@@ -83,6 +85,10 @@ This demo showcases the complete workflow of the Brain Tumor Classification syst
  [![Fie Screenshot](assets/file_preview_1.2.png)](assets/file_preview_1.2.png)
  [![Fie Screenshot](assets/file_preview_1.3.png)](assets/file_preview_1.3.png)
  [![Fie Screenshot](assets/file_preview_1.4.png)](assets/file_preview_1.4.png)
+
+ # Hardware Setup
+ [![Hardware Setup](assets/hardware_1.png)](assets/hardware_1.png)
+ [![Hardware Setup](assets/hardware_2.png)](assets/hardware_2.png)
  
 ---
 
