@@ -52,6 +52,40 @@ Prediction results are delivered through:
 
 ---
 
+## 🎥 Project Demo
+
+This demo showcases the complete workflow of the Brain Tumor Classification system, including image upload, preprocessing, CNN-based prediction, confidence scores, and result visualization.
+
+▶️ [Google Drive Link](https://drive.google.com/file/d/1O9lgFGSX_Uo6VN6h_6eGEZCCDM3wCiF9/view?usp=sharing)
+
+---
+
+## 🖥️ Demo Screenshots
+ 
+ # Dashboard 
+ [![Dashboard Screenshot](assets/dashboard_1.1.png)](assets/dashboard_1.1.png)
+ [![Dashboard Screenshot](assets/dashboard_1.2.png)](assets/dashboard_1.2.png)
+ [![Dashboard Screenshot](assets/dashboard_1.3.png)](assets/dashboard_1.3.png)
+ [![Dashboard Screenshot](assets/dashboard_1.4.png)](assets/dashboard_1.4.png)
+ [![Dashboard Screenshot](assets/dashboard_2.png)](assets/dashboard_2.png)
+ [![Dashboard Screenshot](assets/dashboard_3.png)](assets/dashboard_3.png)
+
+ # Classification Result
+ [![Result Screenshot](assets/prediction_result_1_1.1.png)](assets/prediction_result_1_1.1.png)
+ [![Result Screenshot](assets/prediction_result_1_1.2.png)](assets/prediction_result_1_1.2.png)
+ [![Result Screenshot](assets/prediction_result_1_1.3.png)](assets/prediction_result_1_1.3.png)
+ [![Result Screenshot](assets/prediction_result_1_1.4.png)](assets/prediction_result_1_1.4.png)
+ [![Result Screenshot](assets/prediction_result_1_1.5.png)](assets/prediction_result_1_1.5.png)
+ [![Result Screenshot](assets/prediction_result_2.png)](assets/prediction_result_2.png)
+
+ # Generated File
+ [![Fie Screenshot](assets/file_preview_1.1.png)](assets/file_preview_1.1.png)
+ [![Fie Screenshot](assets/file_preview_1.2.png)](assets/file_preview_1.2.png)
+ [![Fie Screenshot](assets/file_preview_1.3.png)](assets/file_preview_1.3.png)
+ [![Fie Screenshot](assets/file_preview_1.4.png)](assets/file_preview_1.4.png)
+ 
+---
+
 # 🏗 System Architecture
 
     ┌───────────────────────────┐
