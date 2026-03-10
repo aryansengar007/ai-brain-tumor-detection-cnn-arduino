@@ -87,7 +87,7 @@ In the demo, the full project workflow is explained step-by-step, showing how MR
  [![Fie Screenshot](assets/file_preview_1.4.png)](assets/file_preview_1.4.png)
 
  # Hardware Setup
- [![Hardware Setup](assets/hardware_1.png)](assets/hardware_1.png)
+ [![Hardware Setup](assets/hardware_1.jpeg)](assets/hardware_1.jpeg)
  [![Hardware Setup](assets/hardware_2.png)](assets/hardware_2.png)
  
 ---
