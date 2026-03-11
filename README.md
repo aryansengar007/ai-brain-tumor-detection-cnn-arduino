@@ -78,7 +78,7 @@ In the demo, the full project workflow is explained step-by-step, showing how MR
  [![Result Screenshot](assets/prediction_result_1_1.3.png)](assets/prediction_result_1_1.3.png)
  [![Result Screenshot](assets/prediction_result_1_1.4.png)](assets/prediction_result_1_1.4.png)
  [![Result Screenshot](assets/prediction_result_1_1.5.png)](assets/prediction_result_1_1.5.png)
- [![Result Screenshot](assets/prediction_result_2.png)](assets/prediction_result_2.png)
+ [![Result Screenshot](assets/prediction_result_1_2.png)](assets/prediction_result_1_2.png)
 
  # Generated File
  [![Fie Screenshot](assets/file_preview_1.1.png)](assets/file_preview_1.1.png)
